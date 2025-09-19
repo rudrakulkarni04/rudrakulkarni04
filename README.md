@@ -48,7 +48,7 @@
 Here are some insights from the dashboard:
 
 ![Team Spending](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/1.png)
-![Top 10 Players](./images/your_screenshot2.png)
+![Top 10 Players]([images/your_screenshot2.png](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/2.png))
 ![Capped vs Uncapped](./images/your_screenshot3.png)
 
 
