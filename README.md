@@ -34,7 +34,7 @@
 
 ## 📂 Project Files
 
-- 📘 [Jupyter Notebook](./IPL_Auction_Analysis.ipynb) – Full data cleaning, analysis, and visualizations in Python (Colab).
+- 📘 [Jupyter Notebook]([./IPL_Auction_Analysis.ipynb](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/IPL%20AUCTIONS.pbix)) – Full data cleaning, analysis, and visualizations in Python (Colab).
 - 📊 [Original Dataset](./IPL_2025_Auction.csv)
 - 📊 [Team Spending Data](./team_spending.csv)
 - 📊 [Top 10 Players Data](./top10_players.csv)
