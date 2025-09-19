@@ -26,3 +26,22 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)  
 ![Data Science](https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)  
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+
+
+
+
+
+---
+
+## 📂 Projects  
+
+### 📊 IPL Auction Data Analytics  
+- Analyzed IPL 2025 auction dataset using **Python (Pandas, NumPy, Matplotlib, Seaborn)** and **Power BI**.  
+- Key insights:  
+  - 💰 Which team spent the most money.  
+  - 🏏 Top 10 most expensive players.  
+  - 📈 Average price per player category (Capped/Uncapped).  
+- Created interactive dashboards in **Power BI** for visualization.  
+
+🔗 [View Project Repository](your-repo-link-here)
+
