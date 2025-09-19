@@ -30,16 +30,17 @@
 
 
 
----
+## 📂 Projects  
 
-## 📂 Project Files
+### 📊 IPL Auction Data Analytics  
+- Analyzed IPL 2025 auction dataset using **Python (Pandas, NumPy, Matplotlib, Seaborn)** and **Power BI**.  
+- Key insights:  
+  - 💰 Which team spent the most money.  
+  - 🏏 Top 10 most expensive players.  
+  - 📈 Average price per player category (Capped/Uncapped).  
+- Created interactive dashboards in **Power BI** for visualization.  
 
-- 📘 [Jupyter Notebook]([./IPL_Auction_Analysis.ipynb](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/IPL%20AUCTIONS.pbix)) – Full data cleaning, analysis, and visualizations in Python (Colab).
-- 📊 [Original Dataset](./IPL_2025_Auction.csv)
-- 📊 [Team Spending Data](./team_spending.csv)
-- 📊 [Top 10 Players Data](./top10_players.csv)
-- 📊 [Capped vs Uncapped Comparison](./team_compare.csv)
-- 📊 [Power BI Dashboard](./IPL_Dashboard.pbix) 
+
 🔗 [View Project Repository](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics?tab=readme-ov-file#ipl-auction-data-analytics)
 
 
