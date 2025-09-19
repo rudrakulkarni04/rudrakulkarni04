@@ -43,6 +43,15 @@
 
 🔗 [View Project Repository](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics?tab=readme-ov-file#ipl-auction-data-analytics)
 
+## 📊 Power BI Dashboard Preview
+
+Here are some insights from the dashboard:
+
+![Team Spending](./images/your_screenshot1.png)
+![Top 10 Players](./images/your_screenshot2.png)
+![Capped vs Uncapped](./images/your_screenshot3.png)
+
+
 
 
 
