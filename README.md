@@ -43,5 +43,5 @@
   - 📈 Average price per player category (Capped/Uncapped).  
 - Created interactive dashboards in **Power BI** for visualization.  
 
-🔗 [View Project Repository](your-repo-link-here)
+🔗 [View Project Repository](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics?tab=readme-ov-file#ipl-auction-data-analytics)
 
