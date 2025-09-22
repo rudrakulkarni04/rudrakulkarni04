@@ -66,7 +66,7 @@ Key insights:
 Created interactive dashboards in Power BI for visualization.  
  
 
-🔗 [View Project Repository](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics?tab=readme-ov-file#ipl-auction-data-analytics)
+🔗 [View Project Repository](https://github.com/rudrakulkarni04/google-playstore-analytics)
 
 ## 📊 Power BI Dashboard Preview
 
@@ -74,7 +74,7 @@ Here are some insights from the dashboard:
 
 ![Team Spending](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/3.png)
 ![Top 10 Players](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/2.png))
-![Capped vs Uncapped](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/4.png)
+
 
 
 
