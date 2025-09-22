@@ -55,4 +55,29 @@ Here are some insights from the dashboard:
 
 
 
+### 📊 Google Play Store Data Analytics  
+Analyzed Google Play Store dataset using Python (Pandas, Matplotlib, Seaborn) and Power BI.
+
+Key insights:
+⭐ Top-rated apps in each category.
+💰 Revenue analysis of apps.
+📈 Most installed app categories.
+💬 Ratings distribution and trends.
+Created interactive dashboards in Power BI for visualization.  
+ 
+
+🔗 [View Project Repository](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics?tab=readme-ov-file#ipl-auction-data-analytics)
+
+## 📊 Power BI Dashboard Preview
+
+Here are some insights from the dashboard:
+
+![Team Spending](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/3.png)
+![Top 10 Players](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/2.png))
+![Capped vs Uncapped](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/4.png)
+
+
+
+
+
 
