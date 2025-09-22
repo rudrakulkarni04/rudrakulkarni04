@@ -72,8 +72,8 @@ Created interactive dashboards in Power BI for visualization.
 
 Here are some insights from the dashboard:
 
-![Team Spending](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/3.png)
-![Top 10 Players](https://github.com/rudrakulkarni04/IPL-Auction-Data-Analytics/blob/main/images/2.png))
+![Top_Rating](https://github.com/rudrakulkarni04/google-playstore-analytics/blob/main/Rating.png)
+![Top 10 Players](https://github.com/rudrakulkarni04/google-playstore-analytics/blob/main/Revenue.png)
 
 
 
